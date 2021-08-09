@@ -1,9 +1,9 @@
 ### Hi there 👋
+<p>
+![Gildeir Mateus's GitHub stats] img src="https://github-readme-stats.vercel.app/api?username=gildeirmateus&show_icons=true&theme=radical"
 
-![Gildeir Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildeirmateus&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildeirmateus&layout=compact)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildeirmateus&layout=compact)
+<p/>
 
 <!--
 **gildeirmateus/gildeirmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
