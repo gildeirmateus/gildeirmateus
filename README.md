@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-![Gildeir Mateus's GitHub stats] img src="https://github-readme-stats.vercel.app/api?username=gildeirmateus&show_icons=true&theme=radical"
+<img src="https://github-readme-stats.vercel.app/api?username=gildeirmateus&show_icons=true&theme=radical">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildeirmateus&layout=compact)
 <p/>
