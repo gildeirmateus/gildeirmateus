@@ -4,8 +4,7 @@
   <a href="https://www.linkedin.com/in/gildeir-mateus-034063200/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg"       width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   
   [![Gmail Badge](https://img.shields.io/badge/-Gildeir%20Mateus-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gildeirmateus.com@gmail.com)](mailto:gildeirmateus.com@gmail.com)
-  
-  [![Gmail Badge](https://img.shields.io/badge/-fhelipyrt@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fhelipyrt@gmail.com)](mailto:fhelipyrt@gmail.com)
+
 
   
 <p/>
