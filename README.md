@@ -2,6 +2,9 @@
 
 ![Gildeir Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildeirmateus&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildeirmateus&langs_count=8)]
+
+
 
 <!--
 **gildeirmateus/gildeirmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
