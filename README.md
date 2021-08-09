@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <p align"center">
+
   <a href="https://www.linkedin.com/in/gildeir-mateus-034063200/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg"       width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   
   <a href="gildeirmateus.com@gmail.com"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/chat_bubble.svg" width="35px" alt="E-mail"></a>     &nbsp; &nbsp;
+  
 </p>
 
 
@@ -17,8 +19,6 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/dockerhub.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
-
   
 ---
 </p>
@@ -27,7 +27,7 @@
 <p>
   <img  height= "180" src="https://github-readme-stats.vercel.app/api?username=gildeirmateus&show_icons=true&theme=radical">
   <img  height= "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildeirmateus&layout=compact&theme=radical">
-<p/>
+</p>
 
 <!--
 **gildeirmateus/gildeirmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
