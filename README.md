@@ -20,7 +20,7 @@
  
 </p>
 
-**Languages and tools:**  
+##Languages and tools:
 
 <p align="center">
   
@@ -37,7 +37,7 @@
 </p>
 
 
-**GitHub stats:**  
+##GitHub stats:
 
 <p>
   <img  height= "180" src="https://github-readme-stats.vercel.app/api?username=gildeirmateus&show_icons=true&theme=radical">
