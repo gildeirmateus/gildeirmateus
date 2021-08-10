@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Gildeir 👋
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/gildeir-mateus-034063200/">
@@ -20,6 +20,7 @@
  
 </p>
 
+**Languages and tools:**  
 
 <p align="center">
   
@@ -34,6 +35,9 @@
   
 ---
 </p>
+
+
+**GitHub stats:**  
 
 <p>
   <img  height= "180" src="https://github-readme-stats.vercel.app/api?username=gildeirmateus&show_icons=true&theme=radical">
