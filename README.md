@@ -12,6 +12,12 @@
    <a href="https://twitter.com/GildeirM">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>     
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+   <a href="https://www.instagram.com/gildeir_mateus/">
+    <img src=" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>     
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+ 
 </p>
 
 
