@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align"center" float="left">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/gildeir-mateus-034063200/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg"       width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   
