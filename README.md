@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-<p align='center'>
+<p align="center">  
+  <a href="https://twitter.com/GildeirM">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>     
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://twitter.com/GildeirM"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />         </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gildeir-mateus-034063200/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/gildeir-mateus-034063200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:gildeirmateus.com@gmail.com?subject=Olá%20Gildeir"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="mailto:gildeirmateus.com@gmail.com?subject=Olá%20Gildeir">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
