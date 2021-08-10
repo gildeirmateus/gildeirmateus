@@ -14,7 +14,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
    <a href="https://www.instagram.com/gildeir_mateus/">
-    <img src=" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>     
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>     
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
  
